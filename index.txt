@@ -15,6 +15,7 @@ html
 			li 브런치 li
 			li 충둘 li
 			li 충돌해결 li
+			li 원격저장소 추가 li
 		ul
 	body
 html
